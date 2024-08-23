@@ -1,4 +1,38 @@
+body{
+  background: url('/img/b.jpg');
+  background-size: auto;
+}
+
 h1{
-  border-color: #d3e644;
-  border-style: dashed;
+  color:aqua;
+  text-align: center;
+  border-color: #4490e6;
+  border-style: double;
+}
+
+img{
+  border-color: #0871ea;
+  border-style: groove;
+}
+
+ul{
+  background-color:aqua;
+  border-color:#0871ea;
+  border-style:double;
+}
+
+li{
+  font-family:'Times New Roman';
+  font-variant: small-caps;
+}
+
+.center{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+button{
+  background-color:blue;
+  border-radius: 75%;
 }
