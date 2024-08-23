@@ -9,7 +9,7 @@ Lab 1
 
 Added to a template website to create a website in which my classmates can get to know me! For this project, I needed to add CSS rules to make it fancy, unordered list about myself, and add a button and alert! Overall, it went well and I didn't exactly know how to create and implement the button and alert, but I do now and from this I learned a lot. Very informative and enhancing my skills.
 
-Note in the Live Preview the button and alert aren't supported. Open it in the browser and both functions work just fine.
+Note in the Live Preview the button and alert aren't supported. Open it in the browser and both functions work just fine. All you have to do to run this code is simply clone the repository and open the Live Preview on the HTML. Then interact with the website.
 
 ## Sources and Credits
 
